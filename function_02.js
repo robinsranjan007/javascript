@@ -26,3 +26,8 @@ function returnarrays(val)
 }
 
 console.log(returnarrays([1,2,3,4,5,6]));
+
+//
+
+//GLOBAL AND LOCAL SCOPE
+
